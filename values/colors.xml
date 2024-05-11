@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_800">#0277BD</color>
+    <color name="blue_900">#01579B</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#42A5F5</color>
+    <color name="grey">#8A8A8A</color>
+    <color name="blue_500">#3F51B5</color>
+    <color name="blue_700">#303F9F</color>
+    <color name="pink">#FFA0CB</color>
+    <color name="dark_pink">#CA5BA2</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="blue">#7D80FF</color>
+    <color name="light_pink">#FFC0CB</color>
+    <color name="red">#F00</color>
+    <color name="orange">#F80</color>
+    <color name="green">#0A0</color>
+    <color name="blueberry_200">#90caf9</color>
+    <color name="blueberry_400">#42A5F5</color>
+    <color name="blueberry_900">#0f46a1</color>
+
+    <!-- dark theme -->
+    <color name="paleblue_900">#023</color>
+    <color name="black">#000</color>
+    <color name="gray_200">#EEE</color>
+    <color name="gray_400">#BBB</color>
+    <color name="gray_500">#999</color>
+    <color name="gray_700">#555</color>
+
+    <array name="noteColors">
+        <item>#1A237E</item>
+        <item>#880E4F</item>
+        <item>#CA5BA2</item>
+        <item>#999</item>
+        <item>@color/pink</item>
+        <item>#006064</item>
+        <!-- <item>#F57F17</item>
+         <item>#BF360C</item>-->
+        <item>#01579B</item>
+        <item>#53A1AB</item>
+        <item>#4A148C</item>
+        <item>#871EEC</item>
+    </array>
+</resources>
